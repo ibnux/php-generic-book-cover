@@ -12,7 +12,7 @@
             "email": "d.m.heggo@ub.uio.no"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
         "ext-imagick": "*",
