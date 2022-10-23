@@ -18,7 +18,7 @@ The package is based on a script by [@kyrretl](https://github.com/kyrretl).
 Install using Composer:
 
 ```bash
-composer require scriptotek/covergenerator dev-master
+composer require ibnux/covergenerator dev-master
 ```
 
 The package requires ImageMagick and Ghostscript.
@@ -28,7 +28,7 @@ The package requires ImageMagick and Ghostscript.
 ```php
 
 require('vendor/autoload.php');
-use Scriptotek\GenericBookCover\BookCover;
+use ibnux\GenericBookCover\BookCover;
 
 $cover = new BookCover();
 $cover->setTitle('Manual of scientific illustration')
