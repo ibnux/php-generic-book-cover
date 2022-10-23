@@ -1,6 +1,6 @@
 <?php
 
-namespace Scriptotek\GenericBookCover;
+namespace ibnux\GenericBookCover;
 
 class FontMetrics
 {
