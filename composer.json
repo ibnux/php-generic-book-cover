@@ -1,5 +1,5 @@
 {
-    "name": "scriptotek/generic-book-cover",
+    "name": "ibnux/generic-book-cover",
     "description": "PHP package to generate generic book covers for books where no original cover is available.",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Scriptotek\\GenericBookCover\\": "src/"
+            "ibnux\\GenericBookCover\\": "src/"
         }
     }
 }
